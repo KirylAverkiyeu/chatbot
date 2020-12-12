@@ -1,0 +1,19 @@
+.user-message-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.user-message-container .img-avatar-container {
+  border-radius: 50%;
+  width: 30px;
+}
+
+.user-message-container .chat-bubble-user {
+  padding: 8px 16px;
+  color: #fff;
+  margin: 0 10px 30px 0;
+  box-sizing: border-box;
+  background: #5f6fee;
+  border-radius: 20px 20px 3px 20px;
+}
